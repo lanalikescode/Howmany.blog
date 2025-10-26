@@ -91,7 +91,7 @@ melos:
       description: Run `flutter test` in all packages
 
 msix_config:
-  display_name: Converter NOW
+  display_name: Howmany.blog
   publisher_display_name: Damiano Ferrari
   identity_name: 39826DamianoFerrari.ConverterNOW
   logo_path: assets\logo.png
