@@ -1,8 +1,0 @@
-★ Migration to Material You
-★ Themed icons on Android 13+
-★ Added Polish translation
-★ Bugfixes
-
-Thanks to @rehork for your contributions!
-
-What do you think about Howmany.blog? Rate us! ✔️

@@ -1,4 +1,0 @@
-- Fixed bug with currencies page after v4 update
-- Improved polish translations
-
-What do you think about Howmany.blog? Rate us! ✔️

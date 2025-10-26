@@ -1,6 +1,0 @@
-- UI improvements
-- Improved french translation (credits: @Vsnmrn)
-- General improvements
-- Bugfix
-
-What do you think about Howmany.blog? Rate the app! ✔️

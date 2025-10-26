@@ -1,5 +1,0 @@
-★ Fix della conversione delle basi numeriche 🔧
-
-Abbiamo anche una web app, guarda qui: https://ferraridamiano.github.io/ConverterNOW/#/
-
-Cosa ne pensi di Howmany.blog? Recensiscici! ✔️

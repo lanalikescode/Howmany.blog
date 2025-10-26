@@ -1,8 +1,0 @@
-- You can now block the internet access to the app
-- Improved the license page
-- Added haptic feedback
-- Improved the russian translation (@Atrafon)
-- Added catalan translation (@pereorga)
-- Bugfix and general improvements
-
-What do you think about Howmany.blog? Rate the app! ✔️

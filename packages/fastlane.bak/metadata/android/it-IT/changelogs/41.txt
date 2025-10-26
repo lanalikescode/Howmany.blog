@@ -1,6 +1,0 @@
-- Piccoli miglioramenti all'interfaccia utente
-- Migliorata la traduzione francese (crediti: @Vsnmrn)
-- Miglioramenti generali
-- Bugfix
-
-Cosa ne pensi di Howmany.blog? Se ti va, recensisci l'app! ✔️

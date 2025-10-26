@@ -1,3 +1,0 @@
-🐞 Fixed a bug related to the "Hide units" feature.
-
-<b>Do you like Howmany.blog?</b> Leave a review and let us know what you think! ✔️
