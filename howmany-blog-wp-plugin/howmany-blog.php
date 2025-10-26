@@ -25,7 +25,7 @@ function howmany_blog_shortcode( $atts ) {
     $height = esc_attr( $atts['height'] );
 
     return sprintf(
-        '<div class="howmany-blog-wrapper" style="%s"><iframe src="%s" width="%s" height="%s" style="border:0; width:%s; height:%s;" loading="lazy" allowfullscreen></iframe></div>',
+        '<div class="howmany-blog-wrapper" style="%s"><iframe src="%s" width="%s" height="%s" style="border:0; width:%s; height:%s;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>',
         $style_attr,
         esc_url( $src ),
         $width,
