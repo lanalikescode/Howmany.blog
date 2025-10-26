@@ -1,6 +1,6 @@
-import 'package:converterpro/models/order.dart';
-import 'package:converterpro/models/properties_list.dart';
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/models/order.dart';
+import 'package:howmany_blog/models/properties_list.dart';
+import 'package:howmany_blog/utils/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:units_converter/units_converter.dart';

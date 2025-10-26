@@ -1,12 +1,12 @@
 import 'dart:io';
-import 'package:converterpro/models/currencies.dart';
-import 'package:converterpro/models/settings.dart';
-import 'package:converterpro/utils/palette.dart';
-import 'package:converterpro/utils/utils_widgets.dart';
+import 'package:howmany_blog/models/currencies.dart';
+import 'package:howmany_blog/models/settings.dart';
+import 'package:howmany_blog/utils/palette.dart';
+import 'package:howmany_blog/utils/utils_widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:translations/app_localizations.dart';
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/utils/utils.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';

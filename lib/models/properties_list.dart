@@ -1,6 +1,6 @@
-import 'package:converterpro/models/currencies.dart';
-import 'package:converterpro/models/settings.dart';
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/models/currencies.dart';
+import 'package:howmany_blog/models/settings.dart';
+import 'package:howmany_blog/utils/utils.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:units_converter/units_converter.dart';
 

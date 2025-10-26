@@ -1,5 +1,5 @@
-import 'package:converterpro/styles/consts.dart';
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/styles/consts.dart';
+import 'package:howmany_blog/utils/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_riverpod/legacy.dart';

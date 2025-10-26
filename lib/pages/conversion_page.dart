@@ -1,14 +1,14 @@
-import 'package:converterpro/app_router.dart';
-import 'package:converterpro/helpers/responsive_helper.dart';
-import 'package:converterpro/models/conversions.dart';
-import 'package:converterpro/models/currencies.dart';
-import 'package:converterpro/models/hide_units.dart';
-import 'package:converterpro/utils/utils_widgets.dart';
+import 'package:howmany_blog/app_router.dart';
+import 'package:howmany_blog/helpers/responsive_helper.dart';
+import 'package:howmany_blog/models/conversions.dart';
+import 'package:howmany_blog/models/currencies.dart';
+import 'package:howmany_blog/models/hide_units.dart';
+import 'package:howmany_blog/utils/utils_widgets.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:translations/app_localizations.dart';
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/utils/utils.dart';
 import 'package:flutter/material.dart';
-import 'package:converterpro/data/property_unit_maps.dart';
+import 'package:howmany_blog/data/property_unit_maps.dart';
 import 'package:intl/intl.dart';
 
 class ConversionPage extends ConsumerWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:translations/app_localizations.dart';
 import 'package:units_converter/units_converter.dart';
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/utils/utils.dart';
 
 /// This will return the map of [PropertyUi], a record that contains all the
 /// data regarding the displaying of the property all over the app.

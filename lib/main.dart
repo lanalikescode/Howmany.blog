@@ -1,9 +1,9 @@
 import 'dart:io';
-import 'package:converterpro/app_router.dart';
-import 'package:converterpro/styles/consts.dart';
+import 'package:howmany_blog/app_router.dart';
+import 'package:howmany_blog/styles/consts.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:converterpro/models/settings.dart';
+import 'package:howmany_blog/models/settings.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:translations/app_localizations.dart';

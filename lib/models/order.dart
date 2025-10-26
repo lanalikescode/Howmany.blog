@@ -1,7 +1,7 @@
 import 'package:collection/collection.dart';
-import 'package:converterpro/data/default_order.dart';
-import 'package:converterpro/models/settings.dart';
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/data/default_order.dart';
+import 'package:howmany_blog/models/settings.dart';
+import 'package:howmany_blog/utils/utils.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 class PropertiesOrderNotifier extends AsyncNotifier<List<PROPERTYX>> {

@@ -1,4 +1,4 @@
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/utils/utils.dart';
 import 'package:flutter/material.dart';
 
 class Palette extends StatefulWidget {

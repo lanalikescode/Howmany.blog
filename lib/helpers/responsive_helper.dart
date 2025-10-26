@@ -1,4 +1,4 @@
-import 'package:converterpro/styles/consts.dart';
+import 'package:howmany_blog/styles/consts.dart';
 
 double responsivePadding(double displayWidth) => displayWidth * 0.03;
 

@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'package:converterpro/models/settings.dart';
-import 'package:converterpro/utils/utils.dart';
+import 'package:howmany_blog/models/settings.dart';
+import 'package:howmany_blog/utils/utils.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:intl/intl.dart';
 import 'package:http/http.dart' as http;
