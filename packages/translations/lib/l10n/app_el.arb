@@ -1,7 +1,7 @@
 {
   "@@locale": "el",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Αναδιάταξη",
   "myOrdering": "Η διάταξή μου",
   "about": "Σχετικά",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW for other platforms",
+  "otherPlatforms": "Howmany.blog for other platforms",
   "sourceCode": "Πηγαίος κώδικας",
   "undoClearAllMessage": "Καθαρίστηκαν όλα. Θέλεις να το αναιρέσεις;",
   "undo": "Αναίρεση",

@@ -1,4 +1,4 @@
-<b>Converter NOW is een effectieve eenheden en valuta omrekentool </b>
+<b>Howmany.blog is een effectieve eenheden en valuta omrekentool </b>
 ✔️ <b>Versimpel</b> het omslachtige omrekenen van meeteenheden met een simpele klik op de knop!
 🚀 It is <b>Snel en onmiddelijk</b>: begin gewoon met typen en je ziet direct de omgerekende eenheden verschijnen. 
 🖌️ It is <b>Aanpasbaar</b>: Eenheden kunnen anders worden geordend aan de hand van wat je vaak gebruikt.
@@ -9,9 +9,9 @@
 📱🖥️ <b>Multiplatform</b>: beschikbaar op Android, Web, Linux and Windows
 💯 Het is <b>gratis, geen advertenties, geen dataverzameling, geen toestemmingen nodig</b> (alleen internet om de wisselkoersen te updaten) en bovendien <b>open source</b>!
 
-<b>Converter NOW kan 200+ meeteenheden en 30+ valuta omrekenen</b> 🎉🎉
+<b>Howmany.blog kan 200+ meeteenheden en 30+ valuta omrekenen</b> 🎉🎉
 
-Dit zijn een aantal van de meeteenheden die Converter NOW kan omrekenen:
+Dit zijn een aantal van de meeteenheden die Howmany.blog kan omrekenen:
 -<b>Valuta:</b> Dollars, Euro, Pound, Rupee, Yen, etc.
 -<b>Lengte:</b> meters, inches, mijlen, yards, lichtjaren, etc.
 -<b>Oppervlakte:</b> vierkante meters, hectares, acres, etc.

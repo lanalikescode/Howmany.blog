@@ -1,7 +1,7 @@
 {
   "@@locale": "ca",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Reordena",
   "myOrdering": "Ordenació personal",
   "about": "Quant a",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW per altres plataformes",
+  "otherPlatforms": "Howmany.blog per altres plataformes",
   "sourceCode": "Codi font",
   "undoClearAllMessage": "S'ha netejat tot. Voleu desfer-ho?",
   "undo": "Desfés",

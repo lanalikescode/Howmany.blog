@@ -1,7 +1,7 @@
 {
   "@@locale": "nb",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Endre rekkefølge",
   "myOrdering": "Min rekkefølge",
   "about": "Om",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW for andre plattformer",
+  "otherPlatforms": "Howmany.blog for andre plattformer",
   "sourceCode": "Kildekode",
   "undoClearAllMessage": "Fjernet alle. Vil du angre det?",
   "undo": "Angre",

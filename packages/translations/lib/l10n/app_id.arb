@@ -1,7 +1,7 @@
 {
   "@@locale": "id",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Tata ulang",
   "myOrdering": "Penataan saya",
   "about": "Tentang",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW untuk sistem operasi lain",
+  "otherPlatforms": "Howmany.blog untuk sistem operasi lain",
   "sourceCode": "Kode sumber",
   "undoClearAllMessage": "Dihapus semua. Apakah Anda ingin mengurungkannya?",
   "undo": "Urung",

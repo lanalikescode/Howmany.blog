@@ -1,4 +1,4 @@
-<b>Converter NOW efektif ölçü ve para birimleri dönüştürücüdür </b>
+<b>Howmany.blog efektif ölçü ve para birimleri dönüştürücüdür </b>
 ✔️ Birkaç tıklamayla ölçü birimleri arasındaki sıkıcı dönüşüm işlemlerini <b>basitleştirir</b>.
 🚀 <b>Hızlı ve efektif</b>: Yazmaya başladığınız anda diğer tüm ölçü birimlerine gerçek zamanlı çevirim.
 🖌️ <b>Özelleştirilebilir</b>: Birimler önceliklerinize ve kullanımınıza göre yeniden düzenlenebilir.
@@ -12,11 +12,11 @@ Github depomuz: https://github.com/ferraridamiano/converternow
 
 Ayrıca bir web uygulamamız da var! 🖥️ Şurada: https://ferraridamiano.github.io/converternow/
 
-🌍 Converter NOW ücretsiz, reklamsız, herhangi bir izin gerektirmez ve veri toplamaz 🌍
+🌍 Howmany.blog ücretsiz, reklamsız, herhangi bir izin gerektirmez ve veri toplamaz 🌍
 
-<b>Converter NOW 200+ ölçü birimini ve 30+ para birimini dönüştürebilir</b> 🎉🎉
+<b>Howmany.blog 200+ ölçü birimini ve 30+ para birimini dönüştürebilir</b> 🎉🎉
 
-Converter NOW uygulamasının şimdi dönüştürebileceği fiziksel niceliklerden bazıları:
+Howmany.blog uygulamasının şimdi dönüştürebileceği fiziksel niceliklerden bazıları:
 -<b>Para Birimleri:</b> Dolar, Euro, Pound, Rupi, Yen, vb.
 -<b>Uzunluk:</b> metre, inç, mil, yarda, ışık yılı vb.
 -<b>Alan:</b> metrekare, hektar, dönüm vb.

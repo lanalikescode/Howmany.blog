@@ -1,4 +1,4 @@
-<b>Converter NOW ist ein leistungsstarker Einheiten- und Währungsumrechner</b>
+<b>Howmany.blog ist ein leistungsstarker Einheiten- und Währungsumrechner</b>
 ✔️ <b>Vereinfache</b> den aufwendigen Umrechnungsprozess zwischen den Maßeinheiten mit wenigen Klicks.
 🚀 Er ist <b>schnell und unmittelbar</b>: beginne zu tippen und du erhälst prompt die Umrechnung in die anderen Maßeinheiten in Echtzeit.
 🖌️ Er ist <b>anpassungsfähig</b>: gestalte die Reihenfolge der Maßeinheiten nach deinen Vorlieben.
@@ -12,11 +12,11 @@ Schau dir unser Repository auf GitHub an: https://github.com/ferraridamiano/Conv
 
 Wir haben auch eine Web-App! 🖥️ Schau vorbei: https://ferraridamiano.github.io/ConverterNOW/
 
-🌍 Converter NOW ist frei, ohne Werbung, setzt keinerlei Berechtigungen voraus und wir sammeln keine persönlichen Daten über dich 🌍
+🌍 Howmany.blog ist frei, ohne Werbung, setzt keinerlei Berechtigungen voraus und wir sammeln keine persönlichen Daten über dich 🌍
 
-<b>Converter NOW kann mehr als 200 Maßeinheiten und 30+ Währungen umwandeln.</b> 🎉🎉
+<b>Howmany.blog kann mehr als 200 Maßeinheiten und 30+ Währungen umwandeln.</b> 🎉🎉
 
-Hier sind einige Beispiele für physikale Größen und Kurse welche Converter NOW beherrscht:
+Hier sind einige Beispiele für physikale Größen und Kurse welche Howmany.blog beherrscht:
 -<b>Währungen:</b> Dollar (USA & Kanada), Euro, Pfund, Rupee, Yen, etc.
 -<b>Länge:</b> Meter, Zoll, Meilen, Yards, Lichtjahre, etc.
 -<b>Fläche:</b> Quadratmeter, Hektar, Acre, etc.

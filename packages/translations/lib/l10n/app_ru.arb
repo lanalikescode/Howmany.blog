@@ -1,7 +1,7 @@
 {
   "@@locale": "ru",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Изменить порядок",
   "myOrdering": "Мой порядок",
   "about": "О приложении",
@@ -55,7 +55,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW для других платформ",
+  "otherPlatforms": "Howmany.blog для других платформ",
   "sourceCode": "Исходный код",
   "undoClearAllMessage": "Всё очищено. Отменить это действие?",
   "undo": "Отмена",

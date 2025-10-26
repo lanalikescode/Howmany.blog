@@ -1,4 +1,4 @@
-<b>Converter NOW učinkovit je konverter mjernih jedinica i valuta</b>
+<b>Howmany.blog učinkovit je konverter mjernih jedinica i valuta</b>
 ✔️ <b>Pojednostavlja</b> dosadan postupak izračunavanja mjernih jedinica kroz više koraka.
 🚀 <b>Računa<b> brzo i trenutno</b>: Jednostavno upiši vrijednost za željenu mjernu jedinicu. Sve ostale jedinice izračunavaju se trenutno.
 🖌️ <b>Prilagodljiv prikaz</b>: redoslijed jedinica može se promijeniti prema vlastitim potrebama.
@@ -12,11 +12,11 @@ Pogledaj repozitorij na GitHub-u: https://github.com/ferraridamiano/ConverterNOW
 
 Imamo i web aplikaciju! 🖥️ Pogledaj ovdje: https://ferraridamiano.github.io/ConverterNOW/
 
-Converter NOW je besplatan, bez oglasa, ne zahtijeva nikakve dozvole i ne prikuplja tvoje podatke 🌍
+Howmany.blog je besplatan, bez oglasa, ne zahtijeva nikakve dozvole i ne prikuplja tvoje podatke 🌍
 
-<b>Converter NOW pretvara više od 200 mjernih jedinica i više od 30 valuta</b> 🎉🎉
+<b>Howmany.blog pretvara više od 200 mjernih jedinica i više od 30 valuta</b> 🎉🎉
 
-Fizikalne veličine koje Converter NOW pretvara su:
+Fizikalne veličine koje Howmany.blog pretvara su:
 -<b>Valute:</b> dolar, euro, funta, rupija, jen itd
 -<b>Duljina:</b> metar, inč, milja, jard, svjetlosna godina itd.
 -<b>Površina:</b> kvadratni metar, hektar, aker itd.

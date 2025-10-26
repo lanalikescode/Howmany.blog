@@ -93,9 +93,9 @@ melos:
 msix_config:
   display_name: Howmany.blog
   publisher_display_name: Damiano Ferrari
-  identity_name: 39826DamianoFerrari.ConverterNOW
+  identity_name: 39826DamianoFerrari.howmany_blog
   logo_path: assets\logo.png
-  output_name: converternow-windows
+  output_name: howmany_blog-windows
   publisher: CN=E8FE6044-F04C-422E-AC68-EDA83F6AAFB2
   capabilities: internetClient
 

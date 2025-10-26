@@ -1,7 +1,7 @@
 {
   "@@locale": "zh_TW",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "排序",
   "myOrdering": "我的排序",
   "about": "關於",
@@ -55,7 +55,7 @@
       }
     }
   },
-  "otherPlatforms": "其他平台的 Converter NOW",
+  "otherPlatforms": "其他平台的 Howmany.blog",
   "sourceCode": "原始碼",
   "undoClearAllMessage": "已清除全部。您是否想取消？",
   "undo": "取消",

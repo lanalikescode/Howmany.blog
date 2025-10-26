@@ -114,7 +114,7 @@ class MyApp extends ConsumerWidget {
               routeInformationParser: appRouter.routeInformationParser,
               routerDelegate: appRouter.routerDelegate,
               debugShowCheckedModeBanner: false,
-              title: 'Converter NOW',
+              title: 'Howmany.blog',
               themeMode: themeMode,
               theme: lightTheme,
               darkTheme: (ref.watch(IsPureDark.provider).value ?? false)

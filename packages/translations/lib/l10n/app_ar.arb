@@ -1,7 +1,7 @@
 {
   "@@locale": "ar",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "الترتيب",
   "myOrdering": "ترتيبي الخاص",
   "about": "حول",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW على منصات أخرى",
+  "otherPlatforms": "Howmany.blog على منصات أخرى",
   "sourceCode": "الكود المصدر",
   "undoClearAllMessage": "تم مسح الكل. هل تريد التراجُع",
   "undo": "تراجُع",

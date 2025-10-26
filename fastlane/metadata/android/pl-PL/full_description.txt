@@ -1,4 +1,4 @@
-<b>Converter NOW to skuteczny przelicznik jednostek miar i walut </b>
+<b>Howmany.blog to skuteczny przelicznik jednostek miar i walut </b>
 ✔️ <b>Uprość</b> żmudny proces konwersji jednostek miar za pomocą kilku kliknięć..
 🚀 Jest <b>szybki i natychmiastowy</b>: po prostu zacznij pisać i natychmiast masz konwersję w czasie rzeczywistym na wszystkie inne jednostki miary.
 🖌️ Jest <b>konfigurowalny</b>: jednostki mogą być reorganizowane zgodnie z twoimi upodobaniami i sposobem użytkowania.
@@ -12,11 +12,11 @@ Sprawdź repozytorium na GitHubie: https://github.com/ferraridamiano/ConverterNO
 
 Mamy również aplikację internetową! 🖥️ Sprawdź tutaj: https://ferraridamiano.github.io/ConverterNOW/
 
-🌍 Converter NOW jest darmowy, bez reklam, nie wymaga żadnej zgody i nie zbiera twoich danych 🌍
+🌍 Howmany.blog jest darmowy, bez reklam, nie wymaga żadnej zgody i nie zbiera twoich danych 🌍
 
-<b>Converter NOW może przeliczać ponad 200 jednostek miary i ponad 30 walut.</b> 🎉🎉
+<b>Howmany.blog może przeliczać ponad 200 jednostek miary i ponad 30 walut.</b> 🎉🎉
 
-Oto przykładowe miary, które Converter NOW jest w stanie przeliczyć:
+Oto przykładowe miary, które Howmany.blog jest w stanie przeliczyć:
 -<b>Waluty:</b> dolary, euro, funty, rupie, jeny, itd.
 -<b>Długość:</b> metry, cale, mile, jardy, lata świetlne, itd.
 -<b>Powierzchnia:</b> metry kwadratowe, hektary, akry, itd.

@@ -9,7 +9,7 @@ assignees: ''
 
 <!---
 ⚠️ Are asking about adding a new currency? ⚠️
-Converter NOW is a free and open source project. The amount of donations it
+Howmany.blog is a free and open source project. The amount of donations it
 receives are too low to pay an exchange rate api service. At the moment we are
 using the free exchange rate api of the european central bank, it provides a lot
 of conversions (but not all). You can check the supported currencies here:

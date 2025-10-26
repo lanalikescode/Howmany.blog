@@ -1,7 +1,7 @@
 {
   "@@locale": "tr",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Sırala",
   "myOrdering": "Düzenim",
   "about": "Hakkında",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Diğer platformlar için Converter NOW",
+  "otherPlatforms": "Diğer platformlar için Howmany.blog",
   "sourceCode": "Kaynak kodu",
   "undoClearAllMessage": "Hepsi temizlendi. Geri almak istiyor musunuz?",
   "undo": "Geri al",

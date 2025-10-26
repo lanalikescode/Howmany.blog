@@ -1,6 +1,6 @@
 <div align="center">
 
-# Converter NOW
+# Howmany.blog
 
 </div>
 
@@ -40,19 +40,19 @@
   <img src="promotional/screenshots/1.png" width="650">
 </div>
 
-## Why Converter NOW
+## Why Howmany.blog
 
-Tired of complicated, cluttered, and ad-filled unit converters? Converter NOW
+Tired of complicated, cluttered, and ad-filled unit converters? Howmany.blog
 is your perfect solution! A few years ago, we realized that most unit
 converters were not only visually unappealing but also lacked functionality,
-privacy, and ease of use. So, we created Converter NOW to change that!
+privacy, and ease of use. So, we created Howmany.blog to change that!
 
 🚀 **Fast & Intuitive**: Experience lightning-fast, real-time conversions as
 soon as you start typing. No more navigating through confusing menus – just
 instant results with all measurement units!
 
 🛠️ **Fully Customizable**: Tailor your experience by reorganizing units based
-on your preferences and priorities. Make Converter NOW truly yours!
+on your preferences and priorities. Make Howmany.blog truly yours!
 
 🔢 **Built-in Calculator**: Perform complex calculations effortlessly on any
 page. No need to switch between apps – it's all integrated seamlessly.
@@ -67,7 +67,7 @@ device's theme or your unique style preferences.
 ⚫⚪ **Light & Dark Modes**: Switch between dark and light themes for a
 comfortable experience, day or night.
 
-📱🖥️ **Cross-Platform Support**: Enjoy Converter NOW on Android, Web, Linux, and
+📱🖥️ **Cross-Platform Support**: Enjoy Howmany.blog on Android, Web, Linux, and
 Windows. Whether you're on your phone or desktop, we've got you covered!
 
 💯 **Completely Free**: No ads, no data collection, and no intrusive permissions
@@ -85,7 +85,7 @@ winget install -e 9P0Q79HWJH72
 
 ### Container self-hosted web app
 
-You can easily self-host the Converter NOW web app on your own machine using
+You can easily self-host the Howmany.blog web app on your own machine using
 either Docker or Podman. Simply run one of the commands below, depending on your
 containerization tool of choice:
 ```bash
@@ -130,7 +130,7 @@ Type `flutter build web` to build the Web app. You can find the output in
 Note: if you deploy it not on the base path, add `--base-href=/path/` to the command above, change `/path/` with your path.
 
 ### Web app on Docker
-You can build the Docker image of Converter NOW in your environment with the
+You can build the Docker image of Howmany.blog in your environment with the
 following command:
 ```shell
 docker buildx build -t converternow .

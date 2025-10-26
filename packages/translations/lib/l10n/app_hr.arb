@@ -1,7 +1,7 @@
 {
   "@@locale": "hr",
   
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Promijeni redoslijed",
   "myOrdering": "Moj redoslijed",
   "about": "Informacije",
@@ -49,7 +49,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW za druge platforme",
+  "otherPlatforms": "Howmany.blog za druge platforme",
   "sourceCode": "Izvorni kod",
   "undoClearAllMessage": "Sva polja su ispražnjena. Želiš li poništiti tu radnju?",
   "undo": "Poništi",

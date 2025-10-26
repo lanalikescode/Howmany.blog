@@ -1,4 +1,4 @@
-<b> Converter NOW est un convertisseur efficace d'unités et de devises </b>
+<b> Howmany.blog est un convertisseur efficace d'unités et de devises </b>
 ✔️ <b> Simplifiez </b> le fastidieux processus de conversion entre unités de mesure en quelques clics.
 🚀 C'est <b> rapide et immédiat </b>: il suffit de commencer à taper et immédiatement vous avez la conversion en temps réel avec toutes les autres unités de mesure.
 🖌️ Il est <b> personnalisable </b>: les unités peuvent être réorganisées en fonction de vos priorités et de votre utilisation.
@@ -9,9 +9,9 @@
 📱🖥️ <b> Multiplateforme </b>: disponible pour Android, Web, Linux et Windows
 💯 C'est <b>libre, sans publicités, sans collecte de données, sans autorisations</b> (seulement l'accès à Internet pour mettre à jour la valeur des devises) et surtout c'est <b>open-source</b> !
 
-<b> Converter NOW peut convertir plus de 200 unités de mesure et plus de 30 devises </b> 🎉🎉
+<b> Howmany.blog peut convertir plus de 200 unités de mesure et plus de 30 devises </b> 🎉🎉
 
-Voici quelques-unes des quantités physiques que Converter NOW est capable de convertir:
+Voici quelques-unes des quantités physiques que Howmany.blog est capable de convertir:
 - <b> Devises: </b> Dollars, Euro, Livre, Roupie, Yen, etc.
 - <b> Longueur: </b> mètres, pouces, miles, yards, années-lumière, etc.
 - <b> Superficie: </b> mètres carrés, hectares, acres, etc.

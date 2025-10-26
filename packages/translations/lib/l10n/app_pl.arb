@@ -1,7 +1,7 @@
 {
   "@@locale": "pl",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Zmień kolejność",
   "myOrdering": "Moja kolejność",
   "about": "O aplikacji",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW dla innych platform",
+  "otherPlatforms": "Howmany.blog dla innych platform",
   "sourceCode": "Kod źródłowy",
   "undoClearAllMessage": "Wszystko wyczyszczone. Chcesz to cofnąć?",
   "undo": "Cofnij",

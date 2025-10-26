@@ -41,7 +41,7 @@ class CustomDrawer extends ConsumerWidget {
               height: 50,
             ),
             Text(
-              'Converter NOW',
+              'Howmany.blog',
               // Fixed independently of the accessibility settings. Already as
               // large as possible
               textScaler: TextScaler.noScaling,

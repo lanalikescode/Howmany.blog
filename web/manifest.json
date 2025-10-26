@@ -1,11 +1,11 @@
 {
-    "name": "Converter NOW",
-    "short_name": "Converter NOW",
+    "name": "Howmany.blog",
+    "short_name": "Howmany.blog",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#000000",
     "theme_color": "#000000",
-    "description": "A Unit and Currencies Converter. Converter NOW is immediate, fast and easy to use!",
+    "description": "A Unit and Currencies Converter. Howmany.blog is immediate, fast and easy to use!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

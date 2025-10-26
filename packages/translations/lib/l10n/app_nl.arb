@@ -1,7 +1,7 @@
 {
   "@@locale": "nl",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Opnieuw ordenen",
   "myOrdering": "Mijn ordening",
   "about": "Over",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW voor andere platforms",
+  "otherPlatforms": "Howmany.blog voor andere platforms",
   "sourceCode": "Broncode",
   "undoClearAllMessage": "Alles gewist. Ongedaan maken?",
   "undo": "Ongedaan maken",

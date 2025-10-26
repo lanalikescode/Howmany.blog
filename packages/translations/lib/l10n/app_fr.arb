@@ -1,7 +1,7 @@
 {
   "@@locale": "fr",
 
-  "appName": "Converter NOW",
+  "appName": "Howmany.blog",
   "reorder": "Réorganiser",
   "myOrdering": "Ma commande",
   "about": "À propos",
@@ -61,7 +61,7 @@
       }
     }
   },
-  "otherPlatforms": "Converter NOW pour les autres plateformes",
+  "otherPlatforms": "Howmany.blog pour les autres plateformes",
   "sourceCode": "Code source",
   "undoClearAllMessage": "Tout a été effacé. Voulez-vous annuler ?",
   "undo": "Annuler",
